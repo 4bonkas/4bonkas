@@ -1,16 +1,18 @@
-### Hi there 👋
+C:\Users\shoem>neofetch
 
-<!--
-**4bonkas/4bonkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+################   ################      4bonkas@info
+################   ################      ──────────
+################   ################      👤 User: 4bonkas
+################   ################      🔞 Age: 14
+################   ################      🌍 Country: US
+################   ################      🌐 Website: WIP
+################   ################      🔗 Discord: crouch#0001
+                                         
+################   ################      4bonkas@stats
+################   ################      ──────────
+################   ################      ⭐ Luau 8/10
+################   ################      🐍 Python 11/10
+################   ################      🧠 Brain -0/10
+################   ################      💸 Yes :troll:
+################   ################
+[![Discord Presence](https://lanyard.cnrad.dev/api/774816976756539422)](https://discord.com/users/774816976756539422)
